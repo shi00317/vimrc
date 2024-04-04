@@ -9,3 +9,4 @@ sessions/
 autoload/
 .netrwhist
 _machine_specific.vim
+pack/
