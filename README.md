@@ -1,8 +1,6 @@
-# vimrc
-## vim config 
----
-
-### Fast Scroll Up and Down.
+# Vim Config 
+- basic vim configuration for editing file in linux server environment.
+## Fast Scroll Up and Down
 - Remap **k** and **j** key.
 ```bash
 # j for up and k for down
@@ -14,9 +12,8 @@ noremap k j
 map J 5j
 map K 5k
 ```
----
 
-### Quick Save and Exit.
+## Quick Save and Exit
 - Shortcut for saving file with **S**.
 ```bash
 map s <nop>
