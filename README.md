@@ -1,5 +1,12 @@
-# Vim Config 
+# Vim Configuration 
 - basic vim configuration for editing file in linux server environment.
+```bash
+git clone https://github.com/shi00317/vimrc.git
+mv vimrc ~/.vim
+cd ~/.vim
+bash installation.sh
+vi vimrc #type this in vim ":PlugInstall"
+```
 ## Fast Scroll Up and Down
 - Remap **k** and **j** key.
 ```bash
